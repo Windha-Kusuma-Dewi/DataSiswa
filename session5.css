@@ -1,0 +1,105 @@
+body{
+    background-color: rgb(86, 125, 143);
+    font-family: sans-serif;
+    /* margin: 0; */
+}
+
+.box {
+    background: linear-gradient(45deg, rgb(5, 0, 0), #3cf);
+    /* height: 560px; */
+    width: 1200px;
+    margin: auto;
+    text-align: center;
+    border-radius: 25px;
+    margin-top: 80px;
+    /* border: none; */
+    /* margin-bottom: 50px; */
+    padding: 20px 45px 45px 45px;
+}
+
+.box .box1{
+    width: 100%;
+    font-size: 20px;
+}
+
+h1 {
+    color: white;
+    padding-top: 10px;
+    font-size: 45px;
+}
+
+form{
+    color: white;
+}
+
+table {
+    margin: 30px auto;
+    border-radius: 5px;
+}
+
+label {
+    display: inline-block;
+    width: 100px; /* Sesuaikan lebar label sesuai kebutuhan */
+    text-align: center;
+}
+
+table td{
+    text-align: center;
+    padding: 10px;
+    background-color: bisque;
+}
+
+table th{
+    text-align: center;
+    padding: 10px 100px 10px 10px;
+    background-color: bisque;
+    
+}
+
+.box1 input{
+    font-size:21px;
+    border-radius: 5px;
+}
+
+.box1 button{
+    font-size: 15px;
+    font-weight: bold;
+    background-color: rgb(107, 245, 243);
+    padding: 8px 13px;
+    border-radius: 5px;
+    margin-left: 9px;
+}
+
+.box1 button i {
+    font-size: 18px;
+}
+
+i {
+    color: black;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+.box td a {
+    background-color: red;
+    padding: 6px;
+    border-radius: 5px;
+    color: white;
+    font-style: italic;
+}
+
+.box td a:hover {
+    background-color: rgb(196, 4, 4);
+}
+
+.box td i {
+    color: white;
+    font-style: italic;
+}
+
+.box table tr th {
+    text-align: center
+}

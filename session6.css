@@ -1,0 +1,56 @@
+body{
+    background-color: rgb(24, 77, 102);
+    font-family: sans-serif;
+    margin-top: 200px;
+}
+table {
+    margin: 30px auto;
+    padding: 30px;
+}
+
+table td{
+    text-align: left;
+    padding: 10px;
+    background-color: white;
+    font-style: italic;
+}
+
+table th{
+    text-align: left;
+    padding: 15px 25px;
+    background-color: bisque;
+}
+
+table th tr {
+    padding: 30px;
+}
+
+.yaaini {
+    text-align: center;
+}
+
+.yaaini button {
+    background-color: bisque;
+    padding: 11px 20px;
+    margin-left: 20px;
+    font-weight: bold;
+    font-style: italic;
+    margin-top: 30px;
+}
+
+.yaaini button i a{
+    font-size: 15px;
+    font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
+}
+
+button {
+    border-radius: 5px;
+    font-size: 14px;
+
+}
